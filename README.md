@@ -1,5 +1,5 @@
 # passwordManager
-Welcome to my self-contained, linux command-line password manager. \
+Welcome to my linux-based command line password manager. \
 \
 The C++ program generates a random password that is 10 characters long and guaranteed to have a number, a symbol and an upper and lower case character. \
 The bash scripts automate inserting and retreiving the password from the storage file. \
