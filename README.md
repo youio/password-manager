@@ -15,5 +15,6 @@ The aliases wrap the bash scripts so you can call them from anywhere in the comm
 * `newpasswd [identifier] [password]` : saves the identifier and password in the storage file
 * `getpasswd` : cats out the entire storage file
 * `getpasswd [identifier]` : greps the storage file for the given identifier
-* `editpasswds` : opens an editor for the storage file
+* `editpasswd` : opens an editor for the storage file
+* `editpasswd [identifier]` : opens an editor for the storage file with cursor at the given identifier
 
